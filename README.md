@@ -8,7 +8,7 @@ npm create astro@latest -- --template starlight
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-## Hello World
+## No Hello World
 
 ## 🚀 Project Structure
 
