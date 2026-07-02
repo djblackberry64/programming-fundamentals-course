@@ -1,0 +1,26 @@
+---
+import {Code, LinkButton, Icon} from '@astrojs/starlight/components';
+const {downloadUrl, solutionCode, codeLanguage = "java", language = "en", filename="Main.java" } = Astro.props;
+
+const defaultNames = {
+  java: "Main.java",
+  kotlin: "Main.kt",
+  python: "main.py"
+}
+
+const individualFilename = filename || defaultNames[codeLanguage];
+---
+<LinkButton href={downloadUrl} download="" icon="external"
+  iconPlacement="start">
+{codeLanguage == "java" && <Icon name="seti:java" label="Java icon"/>}
+{codeLanguage == "kotlin" && <Icon name="seti:kotlin" label="Kotlin icon"/>}
+{language == "en" && "Download Base File"}
+{language == "de" && "Basisdatei herunterladen"}
+</LinkButton>
+<br /><br />
+<details>
+<summary style="display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer;">
+<Icon name="magnifier" label="Show solution icon"/> {language == "en" && "Show solution"} {language == "de" && "Lösung anzeigen"}
+</summary>
+<Code code={solutionCode} lang={codeLanguage} title={individualFilename} />
+</details>
