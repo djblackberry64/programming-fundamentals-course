@@ -3,8 +3,6 @@ title: Definitions in programming (principles)
 description: Definitions about programming principles explained in detail
 ---
 
-# Definitions in programming (principles)
-
 ## What are different principles in Programming?
 
 Principles in programming are often higher level concepts which are often design decisions or ways of how to program and less about a specific thing.

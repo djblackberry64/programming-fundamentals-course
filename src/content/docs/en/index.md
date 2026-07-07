@@ -3,8 +3,6 @@ title: Welcome to this curriculum
 description: Introduction to site
 ---
 
-# Welcome to this curriculum
-
 _This curriculum teaches programming fundamentals that apply no matter which language you choose.
 It’s designed to help you navigate the tough moments that often stop people before they even get started._
 

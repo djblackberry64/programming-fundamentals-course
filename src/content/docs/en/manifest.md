@@ -3,8 +3,6 @@ title: Manifest
 description: Reasoning, future outlooks and project state
 ---
 
-# Reasoning, project state and future plans
-
 ## Reasoning
 
 This project started as a simple tutorial project by me where I wanted to teach programming

@@ -3,8 +3,6 @@ title: History of programming
 description: A broad history outline of programming
 ---
 
-# History of programming
-
 We have a loooong way ahead of us before we arrive where we are today. Let me take you on a little journey...
 
 <img
@@ -57,7 +55,9 @@ Low Level Predecessor Languages are languages associated with the beginnings of 
 
 <div class="starlight-aside starlight-aside--note">
 <p class="starlight-aside__title">Some short definitions</p>
-<br />A compiler is a program that is used to execute code by translating the
+<br />
+
+A compiler is a program that is used to execute code by translating the
 code you write into a language computers can understand _binary code_.
 
 An interpreter is also a program used to execute code but instead of translating the whole program at once like the compiler does, it only translates the pieces that are currently needed.
@@ -77,8 +77,10 @@ To keep it short: C used Assembly to write its compiler.
 <div class="starlight-aside starlight-aside--danger">
   <p class="starlight-aside__title">Burning question</p>
   <br />
-  **Now you may ask: But how can it be that there's C code when I look up the
-  source code of the C compiler?**
+
+**Now you may ask: But how can it be that there's C code when I look up the
+source code of the C compiler?**
+
 </div>
 
 Let's see what happened there:
@@ -121,6 +123,7 @@ After a boom a crash will follow...
   src="/src/assets/images/clinical_chairs.jpeg"
   alt="Two random backfacing chairs, hard contrast and many shadows, dark picture"
   width="300"
+  style="border-radius: 20px;"
 />
 
 The dot com crash was one of the most devastating setbacks for software development.
@@ -184,6 +187,7 @@ The current stagnation is a mix of multiple phenomenons falling together:
 </ul>
 <div class="starlight-aside starlight-aside--tip">
 <p class="starlight-aside__title">Key Takeaway</p><br />
+
 **This historical progression should teach us that technological progress is not linear, but cyclical**
 
 </div>

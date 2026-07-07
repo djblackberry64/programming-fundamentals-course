@@ -3,8 +3,6 @@ title: Introduction
 description: Introduction to the module foundations
 ---
 
-# Introduction
-
 ## Chapter 1: Welcoming
 
 Welcome to Lempire Curriculum!

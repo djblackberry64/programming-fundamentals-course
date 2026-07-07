@@ -3,8 +3,6 @@ title: Resources for after this curriculum
 description: A list of resources for continueing after this curriculum
 ---
 
-# Resources for after this curriculum
-
 ## Beginner Resources for Everyone
 
 Examples for these resources include:

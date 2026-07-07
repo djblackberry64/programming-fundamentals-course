@@ -3,8 +3,6 @@ title: Introduction
 description: An introduction into the advanced module
 ---
 
-# Introduction
-
 ## Welcome to the advanced section
 
 I'm glad you made it to the advanced section.<br />

@@ -3,8 +3,6 @@ title: Java course
 description: Intro into the Java course, additional offer extension of the course
 ---
 
-# Java course
-
 ## What is Java Space Tutorial Course?
 
 The Java space tutorial course guides you step-by-step through the process of learning the programming language Java. It was made by the same person that wrote this curriculum.

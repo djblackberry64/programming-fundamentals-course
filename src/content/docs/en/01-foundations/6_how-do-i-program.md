@@ -3,8 +3,6 @@ title: How do I program?
 description: A detailed guide on how to program
 ---
 
-# How do I program?
-
 ## OS (Operating system)
 
 Your operating system is the software that talks directly to your hardware (including drivers and stuff). Knowing how things work on your operating system (OS) is crucial for all the other steps to follow when we program locally.

@@ -3,8 +3,6 @@ title: Collaboration
 description: A guide about what collaboration is and how to do it
 ---
 
-# Collaboration
-
 ## What does collaboration mean?
 
 Collaboration means working with different people. In our case working on a software project or something related to it.

@@ -3,8 +3,6 @@ title: Definitions in programming (concepts)
 description: Definitions about programming concepts explained in detail
 ---
 
-# Definitions in programming (concepts)
-
 ## What are concepts in programming?
 
 A concept is a little thing to grasp like how to make your program decide something or what to do when something unexpected happens.

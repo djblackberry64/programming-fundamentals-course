@@ -3,8 +3,6 @@ title: What is programming?
 description: A guide on what programming is
 ---
 
-# What is programming?
-
 ## Definition
 
 Programming is the process of designing and building an executable computer program to accomplish a specific computing result or perform a specific task.

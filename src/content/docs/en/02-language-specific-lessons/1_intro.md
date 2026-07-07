@@ -3,8 +3,6 @@ title: So you wanna pick a programming language now?
 description: An introduction into the language specific lessons module
 ---
 
-# So you wanna pick a programming language now?
-
 ## Before we do this
 
 You should have a feel for what you wanna do with programming as a skill or at least what you wanna try (e.g. specific programmming language, technology or area of expertise).
@@ -63,7 +61,7 @@ Even though the choosing of your programming language is often tied to the goals
       This is great for people looking for a start with a little friction and it's great for a project they have in mind such as:<br />
       <ul>
         <li>Android apps(<a href="https://developer.android.com/kotlin/first">as of May 7, 2019 the official language for Android development</a>)</li>
-        <li>Backend (more modern, often used as migration from Java because they are interoperable (<a href="https://kotlinlang.org/docs/java-to-kotlin-interop.html">Java can call Kotlin code</a>  and <a href="https://kotlinlang.org/docs/java-interop.html">vice versa</a> without needing to convert the source code itself)</li>
+        <li>Backend (more modern, often used as migration from Java because they are interoperable (<a href="https://kotlinlang.org/docs/java-to-kotlin-interop.html">Java can call Kotlin code</a>  and <a href="https://kotlinlang.org/docs/java-interop.html">vice versa</a> without needing to convert the source code itself))</li>
         <li>OOP deep dives(even more interesting how Kotlin handles this)</li>
       </ul>
   </details>
