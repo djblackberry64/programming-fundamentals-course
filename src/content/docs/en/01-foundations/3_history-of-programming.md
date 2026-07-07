@@ -6,7 +6,7 @@ description: A broad history outline of programming
 We have a loooong way ahead of us before we arrive where we are today. Let me take you on a little journey...
 
 <img
-  src="/src/assets/images/biker_embarking_on_journey.jpeg"
+  src="/programming-fundamentals-course//images/biker_embarking_on_journey.jpeg"
   alt="Austria, Random Hill, Biker driving into the sunset"
   width="300"
   style="border-radius: 20px;"
@@ -120,7 +120,7 @@ All of this was possible because of multiple trends during that time:
 After a boom a crash will follow...
 
 <img
-  src="/src/assets/images/clinical_chairs.jpeg"
+  src="/programming-fundamentals-course//images/clinical_chairs.jpeg"
   alt="Two random backfacing chairs, hard contrast and many shadows, dark picture"
   width="300"
   style="border-radius: 20px;"
@@ -187,7 +187,6 @@ The current stagnation is a mix of multiple phenomenons falling together:
 </ul>
 <div class="starlight-aside starlight-aside--tip">
 <p class="starlight-aside__title">Key Takeaway</p><br />
-
 **This historical progression should teach us that technological progress is not linear, but cyclical**
 
 </div>
