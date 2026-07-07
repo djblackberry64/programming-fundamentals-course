@@ -13,11 +13,13 @@ It’s designed to help you navigate the tough moments that often stop people be
 You'll see the overall progression of the curriculum here.
 Please be sure to check for updates as this curriculum is in active development.
 
-<figure>
+<figure class="animate">
 
-[![Image](../../../assets/images/eye-img-2.jpeg)](./01-foundations/)
+<!--[![Image](../../../assets/images/eye-img-2.jpeg)](./en/01-foundations)-->
 
-<figcaption id="text">Click to start your journey</figcaption>
+<a href="./en/01-foundations">
+<img src="../src/assets/images/eye-img-2.jpeg" alt="Eye" width="300" style="border-radius: 20px;"/>
+<figcaption id="text">Click to start your journey</figcaption></a>
 
 </figure>
 
@@ -29,3 +31,17 @@ If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="h
 ## Used Program
 
 For full documentation visit [Starlight](https://starlight.astro.build/) as this was the static site generator used in this project.
+
+<style>
+.animate:hover {
+  animation: pulse 1s infinite ease-in-out;
+}
+.img:hover{
+  cursor: pointer;
+}
+@keyframes pulse {
+0%   { transform: scale(1); }
+50%  { transform: scale(1.025); }
+100% { transform: scale(1); }
+}
+</style>

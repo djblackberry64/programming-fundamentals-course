@@ -33,7 +33,17 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/withastro/starlight",
+          href: "https://github.com/djblackberry64",
+        },
+        {
+          icon: "heart",
+          label: "Kofi",
+          href: "https://ko-fi.com/djblackberry64",
+        },
+        {
+          icon: "discord",
+          label: "Discord",
+          href: "https://discord.gg/h24Szhf2tN",
         },
       ],
       sidebar: [

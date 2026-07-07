@@ -3,18 +3,15 @@ title: History of programming
 description: A broad history outline of programming
 ---
 
-import { Image } from "astro:assets";
-import Biker from "../../../../assets/images/biker_embarking_on_journey.jpeg";
-import Chairs from "../../../../assets/images/clinical_chairs.jpeg";
-
 # History of programming
 
 We have a loooong way ahead of us before we arrive where we are today. Let me take you on a little journey...
 
-<Image
-  src={Biker}
+<img
+  src="/src/assets/images/biker_embarking_on_journey.jpeg"
   alt="Austria, Random Hill, Biker driving into the sunset"
-  width={300}
+  width="300"
+  style="border-radius: 20px;"
 />
 
 ## Humble beginnings of programming
@@ -120,10 +117,10 @@ All of this was possible because of multiple trends during that time:
 
 After a boom a crash will follow...
 
-<Image
-  src={Chairs}
+<img
+  src="/src/assets/images/clinical_chairs.jpeg"
   alt="Two random backfacing chairs, hard contrast and many shadows, dark picture"
-  width={300}
+  width="300"
 />
 
 The dot com crash was one of the most devastating setbacks for software development.
