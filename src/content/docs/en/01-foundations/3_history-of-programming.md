@@ -187,6 +187,7 @@ The current stagnation is a mix of multiple phenomenons falling together:
 </ul>
 <div class="starlight-aside starlight-aside--tip">
 <p class="starlight-aside__title">Key Takeaway</p><br />
+
 **This historical progression should teach us that technological progress is not linear, but cyclical**
 
 </div>
