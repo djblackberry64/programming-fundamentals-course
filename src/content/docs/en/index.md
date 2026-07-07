@@ -16,7 +16,7 @@ Please be sure to check for updates as this curriculum is in active development.
 <!--[![Image](../../../assets/images/eye-img-2.jpeg)](./en/01-foundations)-->
 
 <a href="./01-foundations">
-<img src="./assets/images/eye-img-2.jpeg" alt="Eye" width="300" style="border-radius: 20px;"/>
+<img src="/programming-fundamentals-course//images/eye-img-2.jpeg" alt="Eye" width="300" style="border-radius: 20px;"/>
 <figcaption id="text">Click to start your journey</figcaption></a>
 
 </figure>
