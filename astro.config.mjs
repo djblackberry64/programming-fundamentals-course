@@ -16,6 +16,10 @@ export default defineConfig({
         en: "Programming Fundamentals Curriculum",
         de: "Programmier Grundlagen Kurs",
       },
+      editLink: {
+        baseUrl:
+          "https://github.com/djblackberry64/programming-fundamentals-course/edit/main/",
+      },
       customCss: ["katex/dist/katex.min.css"],
       defaultLocale: "en",
       locales: {
