@@ -5,6 +5,7 @@ import mdx from "@astrojs/mdx";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import { unified } from "@astrojs/markdown-remark";
+import starlightGiscus from "starlight-giscus";
 
 // https://astro.build/config
 export default defineConfig({
@@ -12,6 +13,19 @@ export default defineConfig({
   base: "/programming-fundamentals-course/",
   integrations: [
     starlight({
+      plugins: [
+        starlightGiscus({
+          repo: "djblackberry64/programming-fundamentals-course",
+          repoId: "R_kgDOScwjfQ",
+          category: "Announcements",
+          categoryId: "DIC_kwDOScwjfc4DBIJ2",
+          theme: {
+            light: "catppuccin_latte",
+            dark: "catppuccin_moccha",
+            auto: "catppuccin_frappe",
+          },
+        }),
+      ],
       title: {
         en: "Programming Fundamentals Curriculum",
         de: "Programmier Grundlagen Kurs",
@@ -20,7 +34,7 @@ export default defineConfig({
         baseUrl:
           "https://github.com/djblackberry64/programming-fundamentals-course/edit/main/",
       },
-      customCss: ["katex/dist/katex.min.css"],
+      customCss: ["katex/dist/katex.min.css", "./src/styles/custom.css"],
       defaultLocale: "en",
       locales: {
         // English docs in `src/content/docs/en/`
