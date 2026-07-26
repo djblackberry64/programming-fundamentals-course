@@ -22,7 +22,7 @@ export default defineConfig({
           theme: {
             light: "catppuccin_latte",
             dark: "catppuccin_moccha",
-            auto: "catppuccin_frappe",
+            auto: "preferred_color_scheme",
           },
         }),
       ],
