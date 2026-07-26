@@ -20,8 +20,8 @@ export default defineConfig({
           category: "Announcements",
           categoryId: "DIC_kwDOScwjfc4DBIJ2",
           theme: {
-            light: "catppuccin_latte",
-            dark: "catppuccin_moccha",
+            light: "light",
+            dark: "dark",
             auto: "preferred_color_scheme",
           },
         }),
