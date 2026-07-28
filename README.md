@@ -1,4 +1,5 @@
 <img src="./data/Banner.png">
+
 # Programming Fundamentals Curriculum
 
 ## Welcome to my curriculum!
