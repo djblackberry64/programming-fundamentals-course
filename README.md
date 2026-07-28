@@ -22,7 +22,10 @@ It explains core concepts and uses different programming languages as examples o
 
 This course uses self-shot photography, a storyline as well as simple language to make the learning experience more pleasant for y'all.
 
-Here is the link to the site: <a href="https://djblackberry64.github.io/programming-fundamentals-course/">Hosted course online</a>
+### A quick look at the project
+
+<img src="./data/screenshot-curriculum.png">
+<a href="https://djblackberry64.github.io/programming-fundamentals-course/">Hosted course online</a>
 
 ## "Why another free course online?"
 
@@ -58,10 +61,6 @@ I think everyone has that spark... they just might not have the fuel yet.
 ### 👀 Still got questions?
 
 Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
-
-## A quick look at the project
-
-<img src="./data/screenshot-curriculum.png">
 
 ## "I wanna use the assets in this course for commercial purposes"
 
