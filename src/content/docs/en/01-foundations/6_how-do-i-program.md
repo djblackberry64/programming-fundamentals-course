@@ -3,6 +3,15 @@ title: How do I program?
 description: A detailed guide on how to program
 ---
 
+## Learning Objectives
+
+<ul>
+<li>What is an Operating System (OS) and which one's are there?</li>
+<li>What is an Integrated Development Environment(IDE) and why it's useful for programming</li>
+<li>How to install the software you need on the 3 major operating systems</li>
+          
+</ul>
+
 ## OS (Operating system)
 
 Your operating system is the software that talks directly to your hardware (including drivers and stuff). Knowing how things work on your operating system (OS) is crucial for all the other steps to follow when we program locally.
@@ -82,6 +91,8 @@ _There are both up and downsides to these approaches:_<br />
 
 Plugin based approach: Setup can be tedious, but the core application itself remains lightweight.<br />
 Core functionality based approach: Setup is often not required or easier, but the core application itself can be bloated for certain use cases.
+
+**An IDE makes the development process easier so I recommend that you install one of your choice.**
 
 ## Installations
 

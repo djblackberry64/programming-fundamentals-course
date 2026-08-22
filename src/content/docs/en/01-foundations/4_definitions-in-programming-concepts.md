@@ -3,6 +3,15 @@ title: Definitions in programming (concepts)
 description: Definitions about programming concepts explained in detail
 ---
 
+## Learning Objectives
+
+Questions to be answered in this part of the curriculum:<br />
+<ul>
+<li>What are different concepts in Programming?</li>
+<li>Why are they relevant?</li>
+<li>How are they executed in different programming languages?</li>
+</ul>
+
 ## What are concepts in programming?
 
 A concept is a little thing to grasp like how to make your program decide something or what to do when something unexpected happens.

@@ -12,6 +12,15 @@ We have a loooong way ahead of us before we arrive where we are today. Let me ta
   style="border-radius: 20px;"
 />
 
+## Learning Objectives
+
+Questions to be answered in this part of the curriculum: <br />
+
+<ul>
+<li>How did we get to where we are?</li>
+<li>How did programming evolve over time?</li>
+</ul>
+
 ## Humble beginnings of programming
 
 ### Textiles and Punch Cards
