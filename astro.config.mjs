@@ -6,12 +6,16 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import { unified } from "@astrojs/markdown-remark";
 import starlightGiscus from "starlight-giscus";
+import mermaid from "astro-mermaid";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://djblackberry64.github.io",
   base: "/programming-fundamentals-course/",
   integrations: [
+    mermaid({
+      autoTheme: true,
+    }),
     starlight({
       plugins: [
         starlightGiscus({

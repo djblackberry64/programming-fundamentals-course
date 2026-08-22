@@ -3,6 +3,24 @@ title: What is programming?
 description: A guide on what programming is
 ---
 
+```mermaid
+flowchart LR
+
+subgraph Phase1["Phase 1: Didaktik & UI-Basics"]
+A --> B --> C
+A[Pulsing & Transform CSS]
+B[Previous/Next Tabs]
+C[Mermaid.js Diagrams]
+end
+
+subgraph Phase2["Phase 2: Polish & Infrastructure"]
+D[Animated SVGs / Lottie / JSON] --> E[Animation Toggle]
+E --> F[RSS Feed Integration]
+end
+
+    Phase1 --> Phase2 --> G[Ship / Part 2 Release]
+```
+
 ## Definition
 
 Programming is the process of designing and building an executable computer program to accomplish a specific computing result or perform a specific task.
