@@ -6,17 +6,17 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import { unified } from "@astrojs/markdown-remark";
 import starlightGiscus from "starlight-giscus";
-import mermaid from "astro-mermaid";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://djblackberry64.github.io",
   base: "/programming-fundamentals-course/",
+  trailingSlash: "ignore",
   integrations: [
-    mermaid({
-      autoTheme: true,
-    }),
     starlight({
+      components: {
+        Head: "./src/components/Head.astro",
+      },
       plugins: [
         starlightGiscus({
           repo: "djblackberry64/programming-fundamentals-course",
@@ -108,10 +108,30 @@ export default defineConfig({
       extendMarkdownConfig: true,
     }),
   ],
-  markdown: {
+  /* vite: {
+    build: {
+      rolldownOptions: {
+        output: {
+          codeSplitting: {
+            groups: [
+              {
+                name: "pagefind",
+                test: /node_modules\/@pagefind/,
+              },
+              {
+                name: "vendor",
+                test: /node_modules/,
+              },
+            ],
+          },
+        },
+      },
+    },
+  },*/
+  /*markdown: {
     processor: unified({
       remarkPlugins: [remarkMath],
       rehypePlugins: [rehypeKatex],
     }),
-  },
+  },*/
 });

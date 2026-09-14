@@ -1,0 +1,15 @@
+---
+import type { ComponentProps } from 'astro/types';
+import Default from '@astrojs/starlight/components/Head.astro';
+
+type Props = ComponentProps<typeof Default>;
+---
+
+<Default {...Astro.props}><slot /></Default>
+<link rel="manifest" href="/programming-fundamentals-course/manifest.webmanifest" />
+<link rel="apple-touch-icon" href="/programming-fundamentals-course/pwa-192x192.png" />
+<!-- light-mode -->
+<meta name="theme-color" content="#F8F4FE" media="(prefers-color-scheme: light)" />
+
+<!-- dark-mode -->
+<meta name="theme-color" content="#2F1C42" media="(prefers-color-scheme: dark)" />

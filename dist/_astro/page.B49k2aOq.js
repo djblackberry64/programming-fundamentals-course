@@ -1,0 +1,1 @@
+import{t as e}from"./vendor.DEAyzoUX.js";e();

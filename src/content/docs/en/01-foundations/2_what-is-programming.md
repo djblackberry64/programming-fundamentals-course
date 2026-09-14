@@ -7,7 +7,7 @@ description: A guide on what programming is
 
 Programming is the process of designing and building an executable computer program to accomplish a specific computing result or perform a specific task.
 
-Coding is programming in a specific programming knowledge or working with a specific tech stack.
+Coding is programming in a specific programming language or working with a specific tech stack.
 
 Programming knowledge is the understanding of fundamental principles in software development.
 
@@ -43,6 +43,6 @@ If you're a good programmer you understand the underlying principles and can tra
 
 You can be let's say good at writing Python code but terrible at understanding the concept of functions.
 
-Even though you learned them in Python you still struggle to apply the concept (not it's implementation, the concept itself) in similiar contexts.
+Even though you learned them in Python you still struggle to apply the concept (not it's implementation, the concept itself) in similar contexts.
 
 This leads to just relearning the implementation for each new language but never understanding the core concept behind it.

@@ -31,6 +31,6 @@ Here is a little outline on our foundation topics:
       <li>Principles of Programming</li>
       <li>
       How do I program?<br />
-      There is a bit of a setup required if you want to programm. Don't worry we will explain everything step by step.</li>
+      There is a bit of a setup required if you want to program. Don't worry we will explain everything step by step.</li>
     </ul>
 </details>

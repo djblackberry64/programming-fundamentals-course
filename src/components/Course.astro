@@ -1,11 +1,22 @@
 ---
 import {Code, LinkButton, Icon} from '@astrojs/starlight/components';
-const {downloadUrl, solutionCode, codeLanguage = "java", language = "en", filename="Main.java" } = Astro.props;
+const {downloadUrl="", solutionCode="", codeLanguage = "java", language = "en", filename } = Astro.props;
+
+type Language = "en" | "de";
+interface Props {
+  downloadUrl?: string,
+  solutionCode?: string,
+  codeLanguage?: CodeLanguage,
+  language?: Language,
+  filename?: string,
+}
+
+type CodeLanguage = "java" | "kotlin" | "python";
 
 const defaultNames = {
   java: "Main.java",
   kotlin: "Main.kt",
-  python: "main.py"
+  python: "main.py",
 }
 
 const individualFilename = filename || defaultNames[codeLanguage];

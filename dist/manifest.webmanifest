@@ -1,0 +1,28 @@
+{
+  "name": "Programming Fundamentals Course - Djblackberry64",
+  "short_name": "PFC - Djblackberry64",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "A course for learning the fundamentals of programming",
+  "start_url": "/programming-fundamentals-course/",
+  "scope": "/programming-fundamentals-course/",
+  "theme_color": "#2F1C42",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
