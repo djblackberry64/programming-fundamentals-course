@@ -128,10 +128,10 @@ export default defineConfig({
       },
     },
   },*/
-  /*markdown: {
+  markdown: {
     processor: unified({
       remarkPlugins: [remarkMath],
       rehypePlugins: [rehypeKatex],
     }),
-  },*/
+  },
 });

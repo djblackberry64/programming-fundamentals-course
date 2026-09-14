@@ -19,7 +19,8 @@
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
     "sharp": "^0.34.5",
-    "starlight-giscus": "^1.1.0"
+    "starlight-giscus": "^1.1.0",
+    "unified": "^11.0.5"
   },
   "allowScripts": {
     "sharp@0.34.5": true,
