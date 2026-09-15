@@ -6,6 +6,7 @@ description: Definitions about programming principles explained in detail
 ## Learning Objectives
 
 Questions to be answered in this part of the curriculum:<br />
+
 <ul>
 <li>What are different principles in Programming?</li>
 <li>Why are they relevant?</li>
@@ -55,7 +56,7 @@ The goal with modularization is a seemless integration with the core application
 
 ## Readability
 
-Readability is often key for how easy a programming language is to pick up. The worst example for this would be the language [brainfuck](https://brainfuck.net/learn) while the best one would be [Python](https://www.python.org/).
+Readability is often key for how easy a programming language is to pick up. A bad example for this would be the language [brainfuck](https://brainfuck.net/learn) while the one of the best would be [Python](https://www.python.org/).
 
 _Python stands out in readability because of its close resemblance to the English language(which is a pretty universal language)._
 
@@ -66,7 +67,7 @@ But not only resemblance to real-world languages makes a programming language re
 Even though standardization isn't always enforced through syntax, it's often wise to adhere to the norms agreed upon by the community (online or in your workspace) when writing code.<br />
 
 While hard standardization means a rule is essential to write syntactically correct code, soft standardization like naming conventions are more about professionality and goodwill.<br />
-For example when everyone adhears to a naming scheme for certain things, it will be easier to differentiate stuff from each other without having to go into detail.
+For example when everyone adheres to a naming scheme for certain things, it will be easier to differentiate stuff from each other without having to go into detail.
 
 _Note that you'll often have different soft standardization, especially regarding things like naming schemes depending on your workplace where you'll have to adhere to standards not set by a broad community but rather locally._
 
