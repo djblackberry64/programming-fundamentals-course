@@ -56,19 +56,37 @@ The goal with modularization is a seemless integration with the core application
 
 ## Readability
 
-Readability is often key for how easy a programming language is to pick up. A bad example for this would be the language [brainfuck](https://brainfuck.net/learn) while the one of the best would be [Python](https://www.python.org/).
+Readability is often key for how easy a programming language is to pick up. An example for this would be the language [brainfuck](https://brainfuck.net/learn) while the one of the best would be [Python](https://www.python.org/).
 
 _Python stands out in readability because of its close resemblance to the English language(which is a pretty universal language)._
 
 But not only resemblance to real-world languages makes a programming language readable, it's also the volume of the code needed to achieve a specific result. The more lines you have to write, the more you're prone to making a mistake.
 
-## Standardization
+## Rules vs. Conventions vs. Standards
 
-Even though standardization isn't always enforced through syntax, it's often wise to adhere to the norms agreed upon by the community (online or in your workspace) when writing code.<br />
+There are often different things you adhere to in your daily life. There are **conventions**, **standards** and **rules**
 
-While hard standardization means a rule is essential to write syntactically correct code, soft standardization like naming conventions are more about professionality and goodwill.<br />
-For example when everyone adheres to a naming scheme for certain things, it will be easier to differentiate stuff from each other without having to go into detail.
+These are often used as synonyms, but understanding the differences between them will be crucial to productive colaboration which we'll get to in the [advanced section](../../03-advanced-section/2_collaboration/).
 
-_Note that you'll often have different soft standardization, especially regarding things like naming schemes depending on your workplace where you'll have to adhere to standards not set by a broad community but rather locally._
+### Rules
 
---> _It's best to be adaptable and act based upon the informations you receive from your surroundings regarding soft standardization. Especially if you collaborate!_
+We all are familiar with the concept of a rule. I would say the other two are based upon this very concept. A rule is something that you get to know (be it written, told or otherwise) which guidance you'll then follow. The concept of a rule itself is simple and pretty adaptable, it's only when you get to conventions or standards that the concept becomes more narrow.
+
+### Conventions
+
+A convention can be thought as the extension of the rule concept with a few additions.
+Firstly, conventions are (often) social. A group of people (a community) agrees upon a few rules they all promise to follow to their best capabilities. Conventions are often not formally described but rather learned implicitly more often than not. This is also what makes them different from standards, although a convention often predates the standard that grows from it.
+
+### Standards
+
+What is a standard? Think about what you just learnt about conventions but it's more formal now. You have documentation, clearer guidelines, maybe even some hard-coded rulesets like syntax.
+
+A standard isn't something vague anymore (or at least a good standard isn't). It's formally described, properly documented, agreed upon by more people and often by a larger scale of people to be exact.
+
+Standards are in your daily life: From the water quality of your tap to your electrical plug or even a sheet of paper!
+
+Standards are important and often (but not always) stem from a convention that came beforehand
+
+### What to be aware of
+
+You'll often come across the decision to weigh the pros and cons between a convention and a standard. If not otherwise specified, I'd recommend you stick with the known standard at your workplace. However if an environment-specific convention is given (e.g. a code naming that differs from the standard or builds upon it), I strongly suggest you follow that instead, as your workplace will typically require it for your work to be accepted.
