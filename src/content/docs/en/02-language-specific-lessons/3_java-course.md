@@ -3,6 +3,8 @@ title: Java course
 description: Intro into the Java course, additional offer extension of the course
 ---
 
+**Please note that this lesson is a little outdated as the course that's referred to here has been extended to include the programming languages Kotlin and Python. This lesson will likely get changed because of this fact.**
+
 ## What is Java Space Tutorial Course?
 
 The Java space tutorial course guides you step-by-step through the process of learning the programming language Java. It was made by the same person that wrote this curriculum.

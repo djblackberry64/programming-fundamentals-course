@@ -31,6 +31,8 @@ The most popular tool for code collaboration is by far Git. Check out the lesson
 
 Tools for other kinds of collaboration e.g. communicating requirements of a project include Jira, Slack, Teams etc.
 
+There's also programs for progress tracking of a project you'll encounter. They can be the same as the ones listed above but there are typically separate programs used for this.
+
 In your career as a programmer you'll often have to use different tools to collaborate with people. Even with those outside of your area of expertise.
 
 So be mindful about who you're talking to, as you might have to adjust phrasing so that everyone gets the information relevant to their part in the project.
