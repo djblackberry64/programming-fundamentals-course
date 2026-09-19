@@ -16,13 +16,13 @@ Examples for these resources include:
       <a href="https://www.w3schools.com/">w3schools.com</a> - A great reference and tutorial site for most programming languages</li>
 </ul>
 
-<!--## Web resources
+## Web resources
 
 <ul>
   <li>
     <a href="https://www.theodinproject.com/">The Odin Project</a> - A great way to start and explore web programming as well as general things (operating systems, installations, etc.)
   </li>
-</ul>-->
+</ul>
 
 ## Communities after this curriculum
 

@@ -30,4 +30,17 @@ Lesson 6(the lesson with most references yet):
 
 ## Language Specific Lessons (TBD)
 
-## Advanced Section (TBD)
+Lesson 1:
+
+- Reference to the announcement of Kotlin as a first class language on Android: [https://developer.android.com/kotlin/first](https://developer.android.com/kotlin/first)
+- Java to Kotlin interoperability and vice versa: [https://kotlinlang.org/docs/java-to-kotlin-interop.html](https://kotlinlang.org/docs/java-to-kotlin-interop.html), [https://kotlinlang.org/docs/java-interop.html](https://kotlinlang.org/docs/java-interop.html)
+- Example video sometimes confusing JavaScript syntax: [https://youtu.be/xE8tL8NdHaY?si=c39ieUFT_HnNOLp3&t=382](https://youtu.be/xE8tL8NdHaY?si=c39ieUFT_HnNOLp3&t=382)
+
+Lesson 2:
+
+No resources listed here as the whole lesson consists of links. Here is the link to the lesson: [lesson-link](../02-language-specific-lessons/2_beginner-resources)
+
+## Advanced Section
+
+Lesson 2:
+An introduction about Git/Github (important Developer tooling!) by The Odin Project: [The Odin Project](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
