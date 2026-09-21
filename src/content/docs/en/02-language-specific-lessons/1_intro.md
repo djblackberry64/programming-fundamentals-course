@@ -81,5 +81,10 @@ Even though the choosing of your programming language is often tied to the goals
 </details>
 
 <!-- Honest mention of other programming languages coming soon.-->
+<!--
+::note[Other languages worth knowing]
+Rust, Go, etc.
+:::
+-->
 
 _That would be it for our starter languages section. I hope you got an understanding about what these languages enable you to do and choose one that fits your needs/your liking._

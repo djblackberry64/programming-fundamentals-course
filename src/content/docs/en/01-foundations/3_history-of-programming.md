@@ -62,9 +62,7 @@ Low Level Predecessor Languages are languages associated with the beginnings of 
 
 ### Can I have your compiler?
 
-<div class="starlight-aside starlight-aside--note">
-<p class="starlight-aside__title">Some short definitions</p>
-<br />
+:::note[Some short definitions]
 
 A compiler is a program that is used to execute code by translating the
 code you write into a language computers can understand _binary code_.
@@ -72,8 +70,7 @@ code you write into a language computers can understand _binary code_.
 An interpreter is also a program used to execute code but instead of translating the whole program at once like the compiler does, it only translates the pieces that are currently needed.
 
 Code is the thing that you write to create a program so a computer can execute it with the help of the compiler.
-
-</div>
+:::
 
 It was common for languages back then to write their compiler on an existing compiler platform/programming language.
 
@@ -83,6 +80,9 @@ One well-known instance of this was the C programming language:
 
 To keep it short: C used Assembly to write its compiler.
 
+<!--
+Manual way if custom aside syntax stops working and I don't wanna import Aside components:
+
 <div class="starlight-aside starlight-aside--danger">
   <p class="starlight-aside__title">Burning question</p>
   <br />
@@ -90,7 +90,12 @@ To keep it short: C used Assembly to write its compiler.
 **Now you may ask: But how can it be that there's C code when I look up the
 source code of the C compiler?**
 
-</div>
+</div>-->
+
+:::danger[Burning question]
+**Now you may ask: But how can it be that there's C code when I look up the
+source code of the C compiler?**
+:::
 
 Let's see what happened there:
 
@@ -194,9 +199,7 @@ The current stagnation is a mix of multiple phenomenons falling together:
     like AI as cover for mass layoffs after the pandemic overhiring.
   </li>
 </ul>
-<div class="starlight-aside starlight-aside--tip">
-<p class="starlight-aside__title">Key Takeaway</p><br />
 
+:::tip[Key Takeaway]
 **This historical progression should teach us that technological progress is not linear, but cyclical**
-
-</div>
+:::
