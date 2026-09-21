@@ -28,7 +28,7 @@ Lesson 6(the lesson with most references yet):
 - How to edit on your Windows 10/11 environment variables by howtogeek.com: [https://www.howtogeek.com/787217/how-to-edit-environment-variables-on-windows-10-or-11/](https://www.howtogeek.com/787217/how-to-edit-environment-variables-on-windows-10-or-11/)
 - Official website of the Brew package manager: [https://brew.sh/](https://brew.sh/)
 
-## Language Specific Lessons (TBD)
+## Language Specific Lessons
 
 Lesson 1:
 

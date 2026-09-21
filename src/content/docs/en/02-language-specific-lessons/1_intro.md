@@ -80,4 +80,6 @@ Even though the choosing of your programming language is often tied to the goals
   </details>
 </details>
 
+
+
 _That would be it for our starter languages section. I hope you got an understanding about what these languages enable you to do and choose one that fits your needs/your liking._
