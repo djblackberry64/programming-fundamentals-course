@@ -81,10 +81,11 @@ Even though the choosing of your programming language is often tied to the goals
 </details>
 
 <!-- Honest mention of other programming languages coming soon.-->
-<!--
+
 ::note[Other languages worth knowing]
-Rust, Go, etc.
+Some languages you can also look at when learning to program would be Rust(a bit newer, great documentation with great explanations for low level programming), Go (really useful for web servers if you don't wanna use JS or Python) C/C++(established, really common in low level programming but the syntax can be harder for beginners) or Dart which especially paired with frameworks like Flutter is an interesting choice for cross platform development.
+
+Just keep in mind that not all of these languages are particularly easy to start with. If you do go forward with these, you'll often face more difficult complications.
 :::
--->
 
 _That would be it for our starter languages section. I hope you got an understanding about what these languages enable you to do and choose one that fits your needs/your liking._
