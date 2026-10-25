@@ -59,7 +59,7 @@ So now that we explained all the more direct ways for you to get started, let me
 
 _If no, try it. If it wasn't successful, keep reading._
 
-Because as tough of a pill it is to swallow - some people really **got the job/got a chance/knew about an opportunity** because they knew someone (even if it's around _a few_ corners).
+Because as tough of a pill it is to swallow - some people mostly **got the job/got a chance/knew about an opportunity** because they knew someone (even if it's around _a few_ corners).
 
 How do you go about this now?
 
@@ -70,6 +70,10 @@ There are some quick tips I would give you that might sound familiar:
 - Follow up with them, after you've met them **(This is where most people stop!)**
 
 This should give you some clarity about asking around in your social circle when you want to network.
+
+PS: Checkout this video, it really breaks down networking and what to look out for in an easy-to-understand manner:
+
+- [AdviceWithErin - Welcome to How to Network Without Being Annoying 101](https://youtube.com/shorts/yKguSXvfgGg?si=2b8UDlk05TtiZBxg)
 
 ## Conclusion
 
