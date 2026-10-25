@@ -30,7 +30,7 @@ The thing with these is that you will most likely have to invest at least a whol
 
 **But**, they can be a really cool way to get to know people in person and get a conversation started with the context the event provides!
 
-## Reaching out directly via e-mail or hiring platforms
+## Reaching out directly via e-mail or hiring platforms like LinkedIn
 
 So this one is tricky because there's no apparent shared context like an event would provide, instead you'll have to search for one yourself.
 
@@ -44,4 +44,35 @@ you may ask.
 
 Glad you did. So... Warm connections are people that you have something in common with: maybe you went to the same school or you know them distantly through a friend or you both love cats or whatever really!
 
-Cold connections on the other hand are people with which you don't really have something in common with. These connections will be much harder to maintain or even just use effectively.
+Cold connections on the other hand are people with which you don't really have something in common with. These connections will be much harder to maintain or even just use effectively in order to get a job.
+
+If you want to have an example for this, check out these videos which inspired me on this lesson:
+
+- [AdviceWithErin - How to: Network on LinkedIn without being Cringe](https://youtube.com/shorts/11W8Wf85GAs?si=6AG8v2pmUVqyFFKw)
+- [AdviceWithErin - Welcome to How to Network Without Being Annoying 101](https://youtube.com/shorts/yKguSXvfgGg?si=2b8UDlk05TtiZBxg)
+
+## Asking around in your social circle
+
+So now that we explained all the more direct ways for you to get started, let me move on to more indirect ways you can go about this.
+
+**Have you tried asking around in your social circle?**
+
+_If no, try it. If it wasn't successful, keep reading._
+
+Because as tough of a pill it is to swallow - some people really **got the job/got a chance/knew about an opportunity** because they knew someone (even if it's around _a few_ corners).
+
+How do you go about this now?
+
+There are some quick tips I would give you that might sound familiar:
+
+- Focus on your warm connections like you would with the other methods: e.g. **shared interests/hobbies/experiences**
+- Bring the connecting factor to your first meeting: e.g. **the hobby**, **the friend you both know**
+- Follow up with them, after you've met them **(This is where most people stop!)**
+
+This should give you some clarity about asking around in your social circle when you want to network.
+
+## Conclusion
+
+I hope I could help you a little with networking. **Make sure to apply the things learnt here!**
+
+And stay tuned for more lessons, because I'll keep at it!

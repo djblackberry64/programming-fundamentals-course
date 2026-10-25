@@ -23,6 +23,8 @@ While there's certainly different interpretations on that ;) there are a few thi
 - Participate actively in the group
 - Be honest (don't be cruel - there's a difference!)
 
+Also revisit [lesson 4 in foundations](../01-foundations/4_definitions-in-programming-concepts.md) to make sure you still know the difference about Rules vs. Conventions vs. Standards. It's key to understand their differences!
+
 ## How do you collaborate?
 
 Depending on in which area of programming you are you'll come into contact with tools both for code collaboration as well as other means of collaborating.
