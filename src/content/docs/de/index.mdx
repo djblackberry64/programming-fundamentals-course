@@ -1,0 +1,41 @@
+---
+title: Hey du! Ja ich meine dich!
+description: Sprachneutraler Kurs über Programmiergrundlagen
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Programmieren erzählt wie eine sprachneutrale Geschichte. <br/> Kurz. Bildhaft. Unvergesslich.
+  image:
+    file: ../../../assets/houston.webp
+  actions:
+    - text: 🪏 Starte hier
+      link: ./00-welcoming
+      icon: right-arrow
+    - text: Zeige Manifest
+      link: ./en/manifest
+      icon: external
+      variant: minimal
+giscus: false
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+## Next steps
+
+<CardGrid stagger>
+  <Card title="Mehrere Sprachen" icon="translate">
+    Dieses Projekt ist in mehreren Sprachen verfügbar! <br />
+    (Derzeit Deutsch + Englisch, mehr in Aussicht!)
+  </Card>
+  <Card title="Feedback erwünscht" icon="comment">
+    Gebe dein Feedback
+    [hier](https://github.com/djblackberry64/programming-fundamentals-course/discussions/1)
+  </Card>
+  <Card title="Unterstützte dieses Projekt" icon="heart">
+    Wenn du meine Arbeit unterstützen willst, kannst du das bei <br />
+    [Ko-fi](https://ko-fi.com/djblackberry64)
+  </Card>
+  <Card title="Ich halte euch auf dem Laufenden" icon="open-book">
+    Finde mehr heraus bei [The Stellar Fundamentals
+    Blog(EN)](https://djblackberry64.github.io/).
+  </Card>
+</CardGrid>

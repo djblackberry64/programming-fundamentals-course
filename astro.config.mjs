@@ -39,11 +39,12 @@ export default defineConfig({
           "https://github.com/djblackberry64/programming-fundamentals-course/edit/main/",
       },
       customCss: ["katex/dist/katex.min.css", "./src/styles/custom.css"],
-      defaultLocale: "en",
+      defaultLocale: "root",
       locales: {
         // English docs in `src/content/docs/en/`
-        en: {
+        root: {
           label: "English",
+          lang: "en",
         },
         // Simplified Chinese docs in `src/content/docs/zh-cn/`
         de: {
@@ -72,7 +73,7 @@ export default defineConfig({
         {
           label: "Introduction",
           translations: { de: "Einführung" },
-          slug: "",
+          items: [{ autogenerate: { directory: "00-welcoming" } }],
         },
         {
           label: "Course",
