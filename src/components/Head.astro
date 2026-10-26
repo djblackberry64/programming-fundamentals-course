@@ -1,6 +1,7 @@
 ---
 import type { ComponentProps } from 'astro/types';
 import Default from '@astrojs/starlight/components/Head.astro';
+import MobileMenuFooter from "@astrojs/starlight/components/MobileMenuFooter.astro";
 
 type Props = ComponentProps<typeof Default>;
 ---
@@ -13,3 +14,8 @@ type Props = ComponentProps<typeof Default>;
 
 <!-- dark-mode -->
 <meta name="theme-color" content="#2F1C42" media="(prefers-color-scheme: dark)" />
+<br/>
+<br/>
+<div class="md:sl-hidden">
+  <MobileMenuFooter />
+</div>
