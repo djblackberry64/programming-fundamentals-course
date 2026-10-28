@@ -5,7 +5,7 @@ description: Introduction to the module foundations
 
 ## Chapter 1: Welcoming
 
-Welcome to Lempire Curriculum!
+Welcome to Lempire Course!
 
 ## Chapter 2: Expectations
 

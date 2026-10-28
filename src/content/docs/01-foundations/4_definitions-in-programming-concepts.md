@@ -5,7 +5,8 @@ description: Definitions about programming concepts explained in detail
 
 ## Learning Objectives
 
-Questions to be answered in this part of the curriculum:<br />
+Questions to be answered in this lesson:<br />
+
 <ul>
 <li>What are different concepts in Programming?</li>
 <li>Why are they relevant?</li>
@@ -70,7 +71,31 @@ Of course you can also specify what happens when the condition isn't met. You do
 
 > else + block of code
 
-Note that you often have separation between the code that is in this conditional block either by parenthesis (in Java it would be these: "{}") or identation (In Python you ident with 2 spaces and stop identing when the code block should end).
+Note that you often have a separation between the code that is in this conditional block and the one that's not either by parenthesis (in Java it would be these: "{}") or identation (In Python you ident with 2 spaces and stop identing when the code block should end).
+
+#### switch statements
+
+When talking about switch-statements, they often follow the following structure:
+
+```
+switch(value){
+  catch value1:
+    block of code
+  catch value2:
+    block of code
+  .
+  .
+  .
+  default:
+    block of code
+}
+```
+
+This can often be easier to write than if-statements, especially if you're comparing for specific values. In other cases(e.g. more complex conditions), it might be better to stick with if-statements.
+
+As you can see, the general principle is to provide a value and then execute specific code when the value matches the case value. Or if no match is found, to execute default code.
+
+Note that in some languages **every piece of code starting from the first match** will get executed unless you provide a stop e.g. through something like the keyword **break** while others by default **only execute one case**.
 
 ### Error Handling
 
@@ -82,6 +107,6 @@ An example structure in pseudo code:
 
 > try + block of code + catch + block of code
 
-In this example you can see the general concept of error handling. You **try** to do something and when it fails you **catch** the error that occured. The blocks of code in between are the code checked when they're in the try-block and the _error handling code_ when they are in the catch block.
+In this example you can see the general concept of error handling. You **try** to do something and when it fails you **catch** the error that occured. The blocks of code in between are the code checked when they're in the try-block and the _error handling code_ when they are in the catch-block.
 
 As we discussed, each programming language manages error handling a different way. This means you'll have to learn the specific way to handle errors in your code for this language. Though the concept of error handling should be more familiar to you after this lesson which'll make it easier to grasp the details!

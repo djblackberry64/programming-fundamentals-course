@@ -14,14 +14,14 @@ We have a loooong way ahead of us before we arrive where we are today. Let me ta
 
 ## Learning Objectives
 
-Questions to be answered in this part of the curriculum: <br />
+Questions to be answered in this lesson: <br />
 
 <ul>
 <li>How did we get to where we are?</li>
 <li>How did programming evolve over time?</li>
 </ul>
 
-## Humble beginnings of programming
+## The Humble beginnings of programming
 
 ### Textiles and Punch Cards
 
@@ -74,7 +74,7 @@ Code is the thing that you write to create a program so a computer can execute i
 
 It was common for languages back then to write their compiler on an existing compiler platform/programming language.
 
-Early compilers were written in Assembly, later ones could compile themselves – a concept known as self-hosting.
+Early compilers were written in Assembly, later ones could compile themselves – a concept also known as _self-hosting_ or _bootstrapping_.
 
 One well-known instance of this was the C programming language:
 
@@ -142,7 +142,7 @@ After a boom a crash will follow...
 
 The dot com crash was one of the most devastating setbacks for software development.
 
-It was caused by high speculation and the growing discrepancy between the investments in tech and the low ROI (Return On Investment) on them.
+It was caused by high speculation and the growing discrepancy between the investments in tech and the low ROI (Return On Investment -> easy: What you get for your money) on them.
 
 Many startups failed during that time.
 
@@ -154,7 +154,7 @@ The market had not only lost roles but the now unemployed software developers we
 
 After the market recovered, the 2010s "start to code movement" really made computer science popular again.<br />
 
-More resources and tutorials than ever before were made for starters and governments propagated computer science skills as "a basic skill in modern society".
+More resources and tutorials than ever before were made for starters and governments propagated computer science skills as "a basic skill in modern society".[Link here](https://youtu.be/yE6IfCrqg3s)
 
 But as with every hype it has to cool down after a while. In the end of the 2010s as well as the early 2020s the hype had mostly faded again.
 

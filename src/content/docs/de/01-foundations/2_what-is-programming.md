@@ -1,10 +1,7 @@
 ---
 title: Was ist Programmierung?
-prev: "de/01-foundations/1_intro/"
-next: "de/01-foundations/3_history-of-programming/"
+description: Eine Einführung darüber was Programmieren ist
 ---
-
-# Was ist Programmierung?
 
 ## Definition
 

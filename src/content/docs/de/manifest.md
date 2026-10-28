@@ -1,36 +1,36 @@
 ---
 title: Manifest
-description: Reasoning, future outlooks and project state
+description: Überlegungen, Ausblicke und Projektstatus
 last-updated: 2026-07-27
 ---
 
-## Reasoning
+## Überlegungen
 
-This project started as a simple tutorial project by me where I wanted to teach programming
+Dieses Projekt startete als ein einfaches Tutorial Vorhaben, bei welchem ich Programmieren
 
-_something which I saw was often saturated with text heavy content_
+_ein Bereich den ich als sehr textlastig erlebt hatte_
 
-through self-shot photography and a narrative structure.
+mit selbst aufgenommener Fotographie und einer narrativen Struktur lehren wollte.
 
-I first started with MkDocs, from which I moved to Astro Starlight as the friction became unbearable.
-My goal is to give people a nice entry into programming using storytelling, metaphors and self-shot photography as visual/emotional anchors.
+Zuerst startete ich mit MkDocs, von welchem ich auf Astro Starlight umstieg, als die Frustration nicht mehr auszuhalten war.
+Mein Ziel ist es, Leuten einen schönen Einstieg in die Programmierung mittels Geschichten, Metaphern und selbst aufgenommener Fotographie als visuelle/emotionale Anker zu ermöglichen.
 
-For the whole reasoning please consider visiting the [README.md](https://github.com/djblackberry64/programming-fundamentals-course) on GitHub.
+Für meine ganzen Überlegungen besuche bitte die [README.md(EN)](https://github.com/djblackberry64/programming-fundamentals-course) auf GitHub.
 
-## Project State
+## Projektstatus
 
-~~This project currently uses a static site generator called MkDocs with the Material for MkDocs theme. Both of these are commonly used on documentation sites.~~
+~~Dieses Projekt verwendet derzeit eine Software namens MkDocs mit dem Material for MkDocs theme. Beides wird häufig für Dokumentationsseiten genutzt.~~
 
-The functional migration to Starlight is complete!🥳
+Die grundlegende Migration zu Astro Starlight ist komplett!🥳
 
-This project is currently available in English (most recent) and German (a little behind).
+Dieses Projekt ist derzeit in Englisch (aktuell) und Deutsch (ein wenig veraltet) verfügbar.
 
-## Future plans
+## Zukunftsaussichten
 
-As the functional migration to Astro Starlight concludes, it becomes time to think about the future.
+Nachdem die grundlegende Migration zu Astro Starlight ihr Ende findet, wird es Zeit an die Zukunft zu denken.
 
-I plan on adding more content and improving the progression & topic selection even more than what is currently public.
+Ich plane noch mehr Inhalte hinzuzufügen und den Lernverlauf sowie die Themenauswahl weiter zu verbessern als derzeit öffentlich verfügbar ist.
 
-I hope you stay tuned for what's to come and leave feedback as well as suggestions for me to include in the next phases of this project!
+Ich hoffe ihr bleibt gespannt auf das was noch kommt und gebt mir Rückmeldungen/Anregungen/Wünsche, die ich in die nächsten Versionen dieses Projektes einarbeiten kann!
 
-It's an awesome time so far and I hope you continue with me on this journey of building a narrative programming basics curriculum!
+Es war bisher eine tolle Zeit und ich hoffe ihr begleitet mich weiter auf meiner Reise einen narrativen Kurs über die Grundlagen der Programmierung zu erstellen!

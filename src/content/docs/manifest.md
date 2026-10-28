@@ -21,7 +21,7 @@ For the whole reasoning please consider visiting the [README.md](https://github.
 
 ~~This project currently uses a static site generator called MkDocs with the Material for MkDocs theme. Both of these are commonly used on documentation sites.~~
 
-The functional migration to Starlight is complete!🥳
+The functional migration to Astro Starlight is complete!🥳
 
 This project is currently available in English (most recent) and German (a little behind).
 

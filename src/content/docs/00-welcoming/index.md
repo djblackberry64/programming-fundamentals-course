@@ -1,9 +1,9 @@
 ---
-title: Welcome to this curriculum
-description: Introduction to site
+title: Welcome to this course
+description: Introduction to the site
 ---
 
-_This curriculum teaches programming fundamentals that apply no matter which language you choose.
+_This course teaches programming fundamentals that apply no matter which language you choose.
 It’s designed to help you navigate the tough moments that often stop people before they even get started._
 
 ## Curriculum Overview
@@ -24,7 +24,7 @@ Please be sure to check for updates as this curriculum is in active development.
 ## Support
 
 If you wanna support me, consider buying me a coffee on Ko-fi at<br /><a href="https://ko-fi.com/djblackberry64">Link to site</a><br /> or just click the button down below to get redirected:<br />
-<a href="https://ko-fi.com/djblackberry64"></a>
+<a href="https://ko-fi.com/djblackberry64"><img class="animate" src="/programming-fundamentals-course//images/Ko-Fi-new.jpg" width="400" style="border-radius: 40px"></a>
 
 ## Used Program
 
