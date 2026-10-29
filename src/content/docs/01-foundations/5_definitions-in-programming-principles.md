@@ -5,7 +5,7 @@ description: Definitions about programming principles explained in detail
 
 ## Learning Objectives
 
-Questions to be answered in this part of the curriculum:<br />
+Questions to be answered in this lesson:<br />
 
 <ul>
 <li>What are different principles in Programming?</li>
@@ -23,7 +23,7 @@ Principles in programming are relevant because they keep things organized when p
 
 ## How are they executed in different programming languages?
 
-Principles can be more prominent in one programming language than it is in another. Some might prioritize keeping things more readable, others focus more on speed. Though more universal things are standardization or modularization are often to be found because it makes working with a programming language(especially setup and general usability of their ecosystem) easier.
+Some principles can be more prominent in one programming language than it is in another. Some might prioritize keeping things more readable, others focus more on speed. Though more universal things are standardization or modularization are often to be found because it makes working with a programming language(especially setup and general usability of their ecosystem) easier.
 
 ## Terms about how to program (paridigms)
 
@@ -40,23 +40,23 @@ _A programming paradigm is the way you write code. The following terms are diffe
     </ul>
 </details>
 
-## Capsulation
+### Capsulation
 
 Capsulation means having the dependencies and requirements of a specific thing in a seperate area rather than having everything in the main part of an application for example.
 
 > Module A (dependencies and requirements) is part of the big program M with its own dependencies+requirements.
 
-## Modularization
+### Modularization
 
 Modularization often goes hand in hand with capsulation. You outsource specific functionality to specified parts.
 
 **For example part A handles user input, part B handles payment processing and part C takes care of logging your inventory.**
 
-The goal with modularization is a seemless integration with the core application without overloading with unnecessary functionality right from the start. It also helps identifying problems as you can pinpoint them more easily.
+The goal with modularization is a seemless integration of the individual parts with the core application without overloading with unnecessary functionality right from the start. It also helps identifying problems as you can pinpoint them more easily.
 
-## Readability
+### Readability
 
-Readability is often key for how easy a programming language is to pick up. An example for this would be the language [brainfuck](https://brainfuck.net/learn) while the one of the best would be [Python](https://www.python.org/).
+Readability is often key for how easy a programming language is to pick up. A bad example for this would be the language [brainfuck](https://brainfuck.net/learn) while the one of the best would be [Python](https://www.python.org/).
 
 _Python stands out in readability because of its close resemblance to the English language(which is a pretty universal language)._
 
@@ -64,22 +64,31 @@ But not only resemblance to real-world languages makes a programming language re
 
 ## Rules vs. Conventions vs. Standards
 
-There are often different things you adhere to in your daily life. There are **conventions**, **standards** and **rules**
+There are often different things you adhere to in your daily life. There are **rules**, **conventions** and **standards**
 
 These are often used as synonyms, but understanding the differences between them will be crucial to productive colaboration which we'll get to in the [advanced section](../../03-advanced-section/2_collaboration/).
 
 ### Rules
 
-We all are familiar with the concept of a rule. I would say the other two are based upon this very concept. A rule is something that you get to know (be it written, told or otherwise) which guidance you'll then follow. The concept of a rule itself is simple and pretty adaptable, it's only when you get to conventions or standards that the concept becomes more narrow.
+We all are familiar with the concept of a rule. I would say the other two are based upon this very concept.
+
+A rule is something that you get to know (be it written, told or otherwise) which guidance you'll then follow.
+
+The concept of a rule itself is simple and pretty adaptable, it's only when you get to conventions or standards that the concept becomes more narrow.
 
 ### Conventions
 
 A convention can be thought as the extension of the rule concept with a few additions.
-Firstly, conventions are (often) social. A group of people (a community) agrees upon a few rules they all promise to follow to their best capabilities. Conventions are often not formally described but rather learned implicitly more often than not. This is also what makes them different from standards, although a convention often predates the standard that grows from it.
+
+Firstly, conventions are (often) social. A group of people (a community) agrees upon a few rules they all promise to follow to their best capabilities.
+
+Conventions are often not formally described but rather learned implicitly more often than not.
+
+This is also what makes them different from standards, although a convention often predates the standard that grows from it.
 
 ### Standards
 
-What is a standard? Think about what you just learnt about conventions but it's more formal now. You have documentation, clearer guidelines, maybe even some hard-coded rulesets like syntax.
+What is a standard? Think about what you just learnt about conventions but it's more formal now. You now have documentation, clearer guidelines, maybe even some hard-coded rulesets like syntax.
 
 A standard isn't something vague anymore (or at least a good standard isn't). It's formally described, properly documented, agreed upon by more people and often by a larger scale of people to be exact.
 

@@ -1,10 +1,16 @@
 ---
 title: Wie programmiere ich?
-prev: "de/01-foundations/4_definitions-in-programming-concepts/"
-next: "de/02-language-specific-lessons/1_intro/"
+description: Eine detailierte Einführung darin wie man programmiert
 ---
 
-# Wie programmiere ich?
+## Lernziele
+
+<ul>
+<li>Was ist ein Betriebssystem(OS) und welche gibt es da draußen?</li>
+<li>Was ist eine Integrierte Entwicklungsumgebung (IDE) und warum ist sie nützlich für's Programmieren?</li>
+<li>Wie man die benötigte Software, die du brauchen wirst, auf den 3 großen Betriebssystemen installiert.</li>
+          
+</ul>
 
 ## OS (Operating system = dt. Betriebssystem)
 
@@ -61,8 +67,8 @@ Das ist die Sektion mit den relativ seltenen Desktop Betriebssystemen oder Betri
     </details>
     <details>
     <summary>iOS und iPadOS</summary>
-    iOS ist ein weiterer Big Player im Markt von mobilen Betriebssystemen während iOS ein iPad only Betriebssystem ist.<br />
-    Sie werden beide von Apple entwickelt und du brauchst ein Apple-Gerät für die Entwicklung für diese Plattformen (entweder durch MacOS mit seinem Emulator oder mit dem physischen Handy/tablet an sich).<br />
+    iOS ist ein weiterer Big Player im Markt von mobilen Betriebssystemen während iPadOS ein iPad only Betriebssystem ist.<br />
+    Sie werden beide von Apple entwickelt und du brauchst ein Apple-Gerät für die Entwicklung für diese Plattformen (entweder durch MacOS mit seinem Emulator oder mit dem physischen Handy/Tablet an sich).<br />
     Mehr Informationen lasen sich auf folgenden Seiten finden:
     <a href="https://de.wikipedia.org/wiki/IOS_(Betriebssystem)">iOS</a>,
     <a href="https://de.wikipedia.org/wiki/IPadOS">iPadOS</a>
@@ -72,7 +78,7 @@ Das ist die Sektion mit den relativ seltenen Desktop Betriebssystemen oder Betri
 
 ## IDE (Integrated Development Environment = dt. Entwicklungsumgebung)
 
-Eine Entwicklungsumgebung (IDE) ist ein Programm, welches für die Entwicklung von Software genutzt wird.</br>
+Eine Integrierte Entwicklungsumgebung (IDE) ist ein Programm, welches für die Entwicklung von Software genutzt wird.</br>
 Es ist beinhaltet oft spezielle Entwicklungswerkzeuge für das Schreiben und Debugggen (das Korrigieren von Fehlern in einem Programm) von Code.</br>
 Beliebte Beispiele stellen VSCode, Zed und JetBrains IDEs dar.
 
@@ -85,6 +91,8 @@ _Es gibt Vor- und Nachteile bei beiden Ansätzen:_<br />
 
 Plugin-basierter Ansatz: Einrichtung kann langwierig sein, aber die Kernanwendung bleibt leicht.<br />
 Kernfunktionalität Ansatz: Einrichtung ist oft nicht benötigt oder einfacher, aber die Kernanwendung kann ziemlich übertrieben für bestimmte Szenarien sein.
+
+**Eine Integrierte Entwicklungsumgebung macht den Entwicklungsprozess viel einfacher also würde ich empfehlen, dass du ein Programm deiner Wahl installierst**
 
 ## Installationen
 
@@ -112,7 +120,7 @@ Der Mac App Store und manuelle Installationen über DMG/PKG-Dateien sind die hä
 
 #### CLI (command line interface = dt. Konsole) Installationen
 
-Wenn du etwas in MacOS pber die Konsole installierst solltest du einen Package Manager wie Homebrew verwenden.<br />
+Wenn du etwas in MacOS über die Konsole installierst solltest du einen Package Manager wie Homebrew verwenden.<br />
 Hier ist ein Tutorial wie man den homebrew package manager installiert: <a href="https://brew.sh/de/">Link zum Tutorial</a>
 
 ### Linux Installationen
