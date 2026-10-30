@@ -1,0 +1,61 @@
+name: Check internal links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro site
+        run: npm run build
+
+      - name: Start Astro preview
+        run: |
+          npm run preview -- --host 127.0.0.1 > /tmp/astro-preview.log 2>&1 &
+
+          for i in {1..30}; do
+            if curl --fail --silent \
+              http://127.0.0.1:4321/programming-fundamentals-course/ \
+              > /dev/null; then
+              echo "Preview server is ready."
+              break
+            fi
+            sleep 1
+          done
+
+          curl --fail --silent \
+            http://127.0.0.1:4321/programming-fundamentals-course/ \
+            > /dev/null || {
+              cat /tmp/astro-preview.log
+              exit 1
+            }
+
+      - name: Check internal links
+        run: |
+          npx linkinator \
+            http://127.0.0.1:4321/programming-fundamentals-course/ \
+            --recurse \
+            --check-fragments \
+            --url-rewrite-search "https://djblackberry64\\.github\\.io" \
+            --url-rewrite-replace "http://127.0.0.1:4321" \
+            --skip "^(?!http://127\\.0\\.0\\.1:4321)"

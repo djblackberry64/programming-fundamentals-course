@@ -40,7 +40,7 @@ _A text variable can become a number variable in some languages or must stay a v
 
 A method is a function that always resides in a class.
 
-> A class is something that you can find in some programming languages, often in ones that support the paradigm [Object Oriented Programming](../5_definitions-in-programming-principles/).<br/>
+> A class is something that you can find in some programming languages, often in ones that support the paradigm [Object Oriented Programming](../5_definitions-in-programming-principles).<br/>
 > Simplified, it is a structure in which you nest your code.
 
 ### Functions
