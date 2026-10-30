@@ -14,7 +14,7 @@ Bitte erkundige dich regelmäßig über Neuerungen, da sich dieser Kurs noch in 
 
 <!--[![Image](../../../assets/images/eye-img-2.jpeg)](./en/01-foundations)-->
 
-<a href="./01-foundations">
+<a href="../01-foundations">
 <img src="/programming-fundamentals-course//images/eye-img-2.jpeg" alt="Eye" width="300" style="border-radius: 20px;"/>
 <figcaption id="text">Klicke hier um deine Reise zu starten</figcaption></a>
 
