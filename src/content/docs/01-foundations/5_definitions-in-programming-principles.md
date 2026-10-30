@@ -66,7 +66,7 @@ But not only resemblance to real-world languages makes a programming language re
 
 There are often different things you adhere to in your daily life. There are **rules**, **conventions** and **standards**
 
-These are often used as synonyms, but understanding the differences between them will be crucial to productive colaboration which we'll get to in the [advanced section](../../03-advanced-section/2_collaboration/).
+These are often used as synonyms, but understanding the differences between them will be crucial to productive colaboration which we'll get to in the [advanced section](/programming-fundamentals-course/03-advanced-section/2_collaboration/).
 
 ### Rules
 
