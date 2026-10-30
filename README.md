@@ -62,6 +62,8 @@ I think everyone has that spark... they just might not have the fuel yet.
 
 Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
 
+Also checkout the [Roadmap](TODO.md) to see what I've been working on lately and what's planned.
+
 ## "I wanna use the assets in this course for commercial purposes"
 
 Hey I don't mind you using the assets for your non-commercial projects.<br />

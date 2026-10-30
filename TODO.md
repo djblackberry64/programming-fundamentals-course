@@ -1,10 +1,11 @@
-# TODOs
+# Roadmap
 
 ## BIG UX Issues
 
-- [ ] Homepage not synched correctly with rest of the site (+ languages)
+- [x] Homepage not synched correctly with rest of the site (+ languages)
 - [ ] Add more interactive features/images to the lessons
+- [x] Fix broken links reported by reviews
 
 ## Quick Fixes
 
-- [ ] Wrong Blog Link in Homepage card
+- [x] Wrong Blog Link in Homepage card
